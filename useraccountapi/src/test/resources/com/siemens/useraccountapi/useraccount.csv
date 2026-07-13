@@ -1,0 +1,4 @@
+userId,firstName,lastName,gender,email,password
+1,Parameswari,Bala,FEMALE,param@gmail.com,Test@123
+2,Vignesh,Bala,MALE,viki@gmail.com,Test@123
+3,Hoshine,Vignesh,FEMALE,hoshine@gmail.com,Test@123
