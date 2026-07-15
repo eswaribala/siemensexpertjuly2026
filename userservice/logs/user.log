@@ -1,0 +1,4 @@
+2026-07-15 09:24:22.720 INFO  [main] c.b.u.UserserviceApplication - *** ******on *** java 21.0.5 with pid 14232 (e:\***sfeb2026\***e\***\*** *** by *** in e:\***sfeb2026\***e)
+2026-07-15 09:24:22.756 DEBUG [main] c.b.u.UserserviceApplication - *** with *** boot v4.0.4, *** v7.0.6
+2026-07-15 09:24:22.759 INFO  [main] c.b.u.UserserviceApplication - the *** 1 *** is ***: "dev"
+2026-07-15 09:24:35.867 INFO  [main] c.b.u.UserserviceApplication - *** ******on in 14.087 *** (*** *** for 19.049)
